@@ -1,0 +1,7 @@
+<Device brand="Xiaomi" OS="HyperOS">
+    <Hardware>
+        <Variable type="int" name="refresh_rate" value="120" />
+        <Variable type="string" name="device_model" value="Redmi Note 8 Pro" />
+        <Variable type="bool" name="is_low_power" value="false" />
+    </Hardware>
+</Device>

@@ -1,1 +1,7 @@
-{"name":"XiaoScript","author":"itsAsanali","language":"c++","license":"none","encoding":"UTF-8"}
+{
+    "name": "XiaoScript",
+    "author": "asanaIi",
+    "language": "c++",
+    "license": "none",
+    "encoding": "UTF-8"
+}
